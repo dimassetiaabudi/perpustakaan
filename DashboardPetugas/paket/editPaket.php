@@ -25,7 +25,7 @@ $admin = queryReadData("SELECT * FROM paket WHERE paket=$paket");
    <title>Edit Paket</title>
    <style>
       body {
-         background-image: url("../../assets/6761097.jpg");
+         background-image: url("../../assets/dimas.pngS");
          background-size: cover;
       }
 

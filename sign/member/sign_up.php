@@ -30,7 +30,7 @@ if (isset($_POST["signUp"])) {
    <title>Sign Up || Member</title>
    <style>
    body {
-      background-image: url("../../assets/6761097.jpg");
+      background-image: url("../../assets/dimas.png");
       background-size: cover;
    }
    </style>

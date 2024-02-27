@@ -9,7 +9,7 @@
 </head>
 <style>
   body {
-    background-image: url("../assets/6761097.jpg");
+    background-image: url("../assets/dimas.png");
     background-size: cover;
   }
 
